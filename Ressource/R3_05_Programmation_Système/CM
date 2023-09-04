@@ -1,0 +1,50 @@
+04/09/23
+Bas Niveau : Socket
+
+IPC = communication inter processus
+Sockets permet l'échange de données entre app sur une même machine ou connecter sur même réseau 
+2 types de sockets :
+	Socket de domaine UNIX
+	Socket du domaine internet (IPV4 et IPV6) -> Mode TCP, UDP, etc...
+Chaque connexion -> Nouveau socket client et nouveau socket serveur 
+
+Implémentation des sockets 
+	-Plusieurs API de sockets 
+	-API en c : La plus proche donc va permettre de faire plus de chose 
+API en C :
+	#include <sys/socket.h>
+	fonction socket 3 paramètre : int socket(int domain, int type, int protocol)
+	Domaine : utilisation de AF_INET = comm en IPV4
+		@ IPv4 de 32 bits + port de 16 bits = struct sockaddr_in
+	Type : Pour le domaine AF_INET : SOCK_STREAM : Mode TCP
+					 SOCK_DGRAM : Mode UDP
+					 SOCK_RAW : mode brut (communication direct avec IP)
+	Protocol : En général = 0 
+
+Code à copier :
+
+#include <sys/socket.h>
+
+int main()
+{
+int sock_serveur = socket(AF_INET, SOCK_STREAM,0);
+struct sockaddr_in sockaddr_serveur;
+sockaddr_serveur.sin_family=AF_INET;
+sockaddr_serveur.sin_port=htons(50013);
+inet_aton("192.168.1.1", &sockaddr_serveur.sin_addr);
+bind(sock_serveur, (struct sockaddr *) &sockaddr_serveur.sizeof(struct sockaddr_in ));
+return 0;
+}
+
+
+Fonction bind(): int bind(int sockfd, const struct sockaddr*addr,socklen_t addrlen);
+
+Structure de sockaddr_in : struct sockaddr_in
+				{sa_family_t sin_family;  //vaut AF_INET
+				 uint16_t sin_port; // port dans l'ordre réseau
+				 struct in_addr sin_addr; //Adresse IP
+				};
+String vers in_addr
+	int inet_aton(const char *cp, struct in_addr *inp);
+in_addr vers string
+	int inet_ntoa
