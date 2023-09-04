@@ -33,6 +33,11 @@ sockaddr_serveur.sin_family=AF_INET;
 sockaddr_serveur.sin_port=htons(50013);
 inet_aton("192.168.1.1", &sockaddr_serveur.sin_addr);
 bind(sock_serveur, (struct sockaddr *) &sockaddr_serveur.sizeof(struct sockaddr_in ));
+listen(sock_serveur, 128);
+int sock_client;
+sock_client = accept(sock_serveur,NULL,NULL);
+char *msg; time_t date ; date = time(NULL); msg = ctime(&date); // msg contient la date et l'heure 
+write(sock_client, msg, strlen(msg));
 return 0;
 }
 
