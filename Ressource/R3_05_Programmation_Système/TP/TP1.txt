@@ -1,0 +1,17 @@
+05/09/2023 - TP1
+
+1) AF_INET => IPv4
+   SOCK_STREAM => TCP
+2) Adresse socket : adresse IP + port
+   bind() permet de préciser l'@ de la socket d'écoute du serveur 
+   Le type d'@ de socket en IPv4 est sockaddr_in.
+   Numéro de port : 10013
+   L'@ IP du serveur est 0.0.0.0
+   => Le serveur écoute sur toutes les interfaces réseau de sa machine 
+3) Il y a 1 socket d'écoute (passive) 
+   Le serveur va créer autant de sockets actives avec une limite de 1000 clients 
+
+8) Erreur "Adresse already in use"
+9) Erreur "Permission non accordé"
+10) Pas IP locale parce qu'écoute pas toutes interfaces réseaux 
+11) @ client = inet_ntoa(sock_client.sin_addr)
