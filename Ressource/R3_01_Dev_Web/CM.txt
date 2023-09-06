@@ -1,0 +1,15 @@
+06/09/23
+
+Autheur : Mickael Martin Nevot 
+
+Cours : Dev Web
+
+Pour la gestion des erreurs :
+
+declare(strict_types=1);
+ini_set('display_errors','on');
+ini_set('error_reporting',E_ALL);
+
+Balise + Affichage : <?= >
+
+Une variable en PHP utilise un $

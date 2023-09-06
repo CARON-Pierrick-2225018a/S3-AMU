@@ -1,0 +1,41 @@
+3 intelectual question :
+What did you do this summer ?
+You work two weeks, travel in a mountain station and relax
+Where did you go and why ?
+You go in super devoluy his bestfirend, my girlfirend and her bestfriend of my girlfriend. For play guitare and sing in the restaurant 
+Where do you wish you had gone this summer ?
+nowhere
+
+I-Script
+
+1 - University
+  - turn
+  - course
+  - Ideas
+5 - degree
+  - qualification
+  - arts
+  - undergraduate
+  - master
+10- complete
+  - certificat
+  - building
+  - degree
+  - lectures
+15- lecture
+  - talk
+  - personnal
+  - Units
+  - degree
+20- student
+  - semester
+  - courses
+  - subject
+  - subject
+25- minor
+  - minor
+  - elective 
+  - website
+30- degree
+  - knowledge
+
