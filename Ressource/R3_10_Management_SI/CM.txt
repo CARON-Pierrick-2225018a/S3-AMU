@@ -1,0 +1,150 @@
+08/09/23
+
+Author : MONNET DUPUY Marlene
+
+Chapitre 1:
+
+Objectif -> définir l'ensemble des besoins du projet (fonctionnel ou technique)
+Pourquoi spécifier :
+	- coller aux attentes du client
+	- constat : 45% des livrables utilisé (il faut un échange constant entre les acteurs)
+Spec. fonctionnelles:
+	- point de vu utilisateur : ses besoins
+	- Comment ca fonctionne
+Spec. Technique:
+	- implémentation interne : comment passer a un produit qui fonctionne
+	- pdv implémentation : pas parler de technique sans contact
+Quelles méthodes pour rédiger les spec ?
+	- limite des approches gardi
+	- avantage des approches agiles
+
+Types de gestion dans le temps : 
+	Cycle en cascade
+	Cycle en V
+	Pas les mêmes personnes qui vont valider les livrables tout au long du projet
+
+Modèle en cascade (tous les pairs = livrables a faire valider):
+	Analyse préalable -> Avant projet -> conception -> cahier des charges -> dev -> Dossier d'implémentation -> implantation -> solution -> maintenance
+
+Approche agile + pratique car s'adapte a l'évolution du projet et des attentes clients
+	Valeurs : 
+		- équipe soudé
+		- Communication essentielle
+		- implication des dev
+		- Collab avec client
+
+Les acteurs :
+	Product owner:
+		- Responsable d'un produit
+		- Interlocuteur de l'équipe : décrit et définit
+		- Décisionnaire :
+			- Décide de la priorité
+			- Accepte ou pas le travail réalisé
+	Scrum Master:
+		- Aide l'équipe
+		- Gardien de la méthodologie agile
+		- Maître cérémonie + est dans l'équipe de dev
+	Equipe de dev :
+		- Réal produit
+		- Auto organisée
+		- Pas de spécification par rôle (pas de testeur)
+
+Méthodologie Scrum :
+	- Backlog produit :
+		- Fonction issue de l'analyse fonctionnelle
+		- Fait par le product owner
+		- Périmètre produit
+
+		- Faire des stories d'utilisation du produit (persona, etc)
+		- Concentré sur l'essentiel : As a <actor>, I would like to <action>, so that <value>
+			Classer chronologiquement les storie pour prioriser par valeur pour l'utilisateur
+	- Backlog sprint : 
+		- Spécification du design et des fonctionnalité et planification pour s'engager dans le sprint
+	- Sprint (2 - 4 semaines) mélée 24h (= Tous dev mélenger):
+		- Dev
+		- Réunion quotidienne rapide de 15min
+	- Produit partiel :
+		Présentation résultat = produit potenciellement livrable
+	Framework agile pour identifier ce qu'on doit faire rapidement
+
+Recommandation méthodologie :
+	- Spécifications partagé : client (valeur), équipe technique (limites) //Comprendre le voc utilisateur
+	- Préciser les non-buts (Tout ce qui est demandé n'est pas forcément réalisable, tri des fonctionnalités) : Ce qu'on fera pas
+	- Détailler : documenter
+	- Illustrer : schéma, screen, etc pour avoir un support visuel
+	- Importance de la rédaction :
+		- Rédiger par story : besion associé à une fonctionnalité à réal
+		- Rédiger par itération : pas seulement en début de projet
+
+
+15/09/23
+
+
+Chapitre 2: NGAAMA
+
+Pourquoi estimer ? Pour prévenir les risques 
+
+Estimation :
+	Obj: estimer la charge associé aux tâches
+		- quels sont les besoins en ressources
+		- comment orga le travail
+		- quand sera fini le projet
+		- quelle fonctio en prio
+	
+	Planif pilote:
+		Coût -> fonction-technique -> planning -> Coût -> ...
+		Importance de l'estim du planning et des charge financ
+
+	Charges:
+		Base: 
+			- specification
+			- conception
+			- développement
+			- Tests
+		Support:
+			- gestion
+			- qualité
+			- sécurité
+		Accompagnement:
+			- besoins
+			- formation
+
+	Quelles tecniques:
+		- taille
+		- durée
+
+	Technique simple:
+		- méthode delphi : s'appui  sur l'expertise et les convergences d'estimation (quand on sait pas trop ou on va)
+		- méthode par analogie : des projets similaires servent de références
+
+	Ligne de code: 
+		modèle COCOMO (constructive cost model) fournit un algo dérivant une estim de l'éffort "en homme mois" à partir d'une estim de la taille "en ligne de code"
+
+	Point de fonction:
+		Estim de la taille d'un projet à partir de fonctio livrés à l'utilisateur indépendament des techniques utilisées
+
+	Quelles recommandations ?
+		- eviter de deviner
+		- prévoir du temps 
+		- utiliser les données de projets précédents
+		- estimer par consensus
+		- ne pas oublier les tâches récurrentes dans l'estimation
+		- utiliser plusieurs techniques d'estimation
+
+	Approche agile:
+		Coût -> delai -> fonction-technique -> Coût -> ...
+
+	Ideal days:
+		- Le nombre de jours d'éffort que l'équipe prendrait pour réaliser une story
+		- Temps de travail réel de l'équipe dans une journée sans interup
+
+	Story points:
+		- Le nombre de points représentant la taille d'une story
+		- Estimation des efforts pour dev une fonctio : pas de focus sur la durée
+
+	Remarque : la taille peut nous aider a calc la durée du proj
+		Taille du proj (nb total de points des stories) -> calc vélocité de l'équipe (nb de points réal en 1 sprint) -> durée du proj (nb d'iter de spint (taille/vélo))
+
+	Planning poker:
+		- Estim de façon iter en utilisant des cartes (liste modif de fibo)
+		- Permet d'estim en story point
