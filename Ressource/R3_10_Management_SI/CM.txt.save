@@ -166,6 +166,12 @@ Planification Agile :
 		-> Quand démarre et finit une release
 		-> Combien de sprints sont prévus
 		-> Quand les stories seront dev 
+	Etapes de la planification
+ 
+	Le projet est découpé en release, elles m^me découpés en sprint 
+		Release : comprend plus d'1 itération
+		Sprint : Itération
+
 
 
 
