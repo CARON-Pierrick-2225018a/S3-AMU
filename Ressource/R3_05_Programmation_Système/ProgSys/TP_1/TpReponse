@@ -1,0 +1,23 @@
+Author : Pierrick CARON
+
+Exo1
+
+Q1. Car le fichier notreEntete.h est dans un autre dossier donc il n'est pas include dans notre dossier
+Q2. Il est normal de recompiler l'ensemble des fichiers lors de la mise à jour d'un fichier d'en-tête (NotreEntete.h) car il affecte l'ensemble du projet, tandis que la modification d'un fichier source (File1.cxx) ne nécessite que la recompilation de ce fichier et de ses dépendances directes
+
+Exo2
+
+Q3. L'option "ls -lct" permet d'afficher les fichiers d'un répertoire triés par date de modification, montrant ainsi les fichiers les plus récemment modifiés en premier.
+Q4. La date de modification est mise à jour 
+
+Exo3
+
+Q5. Il ne restera plus que File1.cxx et File2.cxx car la cmd make clean supp les fichiers objets et l'executable
+
+Exo4
+
+Q6. C'est de rendre le makefile plus générique et plus flexible. On peut ainsi changer le compilateur ou ses options plus facilement en modifiant la valeur de la variable, à la place de rechercher te modif chaque occurence de la commande de compilation dans le Makefile.
+Q7. make nom=UnProgrammeQuelconque
+Q8. Ça va permettre de créer ou de mettre à jour une archive, en y ajoutant le fichier object et en mettant à jour l'index de l'archive pour refléter les modifications 
+Q9. Les options indiquent à g++ de rechercher la bibliothèque "libSys.a" dans le répertoire courant, mais en utilisant seulement le nom de base Sys pour la liaison sans le préfixe lib ni le suffixe .a
+Q10. 
