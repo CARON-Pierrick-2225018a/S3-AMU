@@ -63,20 +63,19 @@ Pour s'engager valabkement dans un contrat il faut disposer de la capacité juri
 
 La loi prévoit que les dirigeants de société ou autre personne morale doivent les représentés à défaults de représentation c'est sujet de droit sans consistance physique ne pourrait pas avoir de relation juridique. Cependant il arrive que l'un des co contractant ne participe pas directement à la conclusion de l'accord. Il arrive qui les recours à la représentation qui est le mécanisme juridique par lequel une personne le représentant agit au nom d'une autre personne le réprésanter ce mecanisme permet au personne moral de contracter par le billet des personnes physique qui les diriges. Le mandant est le représenter et le mandataire sont représentant qui négocie en son nom. Des qu'un accord est trouvé le contrat produit c'est effet pour le représenté comme s'il avait conclut le contrat.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	C. Le contenu du contrat 
+		a. Le contenu licite du contrat
+		L'article 1162 du code civil vise de facon expresse deux élément du contenu du contrat c'est stipulation et son but :
+			-La licéite des stiplulation : le contenu du contrat défini sont projet la premmière doit être licite pas contraire à l'ordre publique 
+			-La licéite du but : L'ojgt poursuivi par les parties représentent la cause du contrat pour  chacun. Pour déterminer la licéite du contenu du contrat il faut donc aussi recherher les mobiles qui anime les contractant lors de la conclusion du contrat.
+		La loi précise que le contrat est nulle même si une seule des parties poursuit un but illicite même si ce but est inconnu de son co-contractant.
+		
+		b. Le contenu certainb du contrat
+		Pour être certain du contrat, le contenu du contrat doit présenter plusieurs caractéristique :
+			-IDK
+			-La préstation peut-être actuelle ou futur 
+			-la préstation doit être possible
+			-La préstation doit être déterminer ou déterminable 
+	
+	D. La sanction du grand respect  
+ 

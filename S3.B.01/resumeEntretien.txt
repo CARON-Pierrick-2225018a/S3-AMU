@@ -1,0 +1,31 @@
+11/10/2023
+Title : Résumé de l'entretien
+
+Pour commencer il faut reproduire le site sur un serveur bac à sable (pensez à ce le faire payer)(Voir avec le tuteur) 
+Par rapport au fonctionnalité :
+-Mettre en forme les données 
+-Comptabiliser le nombre d'heure entre l'entrée et la sortie (exception si +6h ne pas comptabiliser)
+-BUG ACCÈS -> pour l'instant la vérification est uniquement fait sur le prénom ou le nom, il faut le modifier pour faire une vérif sur les deux
+-Créer un bouton sur le site pour que l'admin puisse accéder à sa page 
+-Pouvoir changer l'administrateur 
+-Dans la page profil mettre :
+	-Temps total passer dans la salle
+	-Temps sur le semestre 
+	-Moyenne par rapport au groupe 
+-Faire en sorte qu'à la première connexion on puisse choisir sa formation (ou quand ce n'est pas référencer) 
+	-Faire en sorte que l'admin puisse le modifier en cas d'erreur 
+	-Mettre une confirmation pour que l'utilisateur ne se trompe pas 
+	-Un bouton modifier 
+-Amélioration des logs :
+	-Triable par formation et nb d'heure
+-Ajouter la formation dans la BDD
+-Changement php vers django si possible car pas nécessaire supporter par AMU (hébergeur)
+-Stock suffisant mais peut-être modifier avec des capteurs plus tard
+-Améliorer le système de  log 
+-Régler beug du fichier lancer pour l'impression 
+-On va sécuriser 
+-Contrôle d'utilisateur depuis la page admin (Mode édition/ assignation de rôle)
+-Faire en sorte que l'expérience utilisateur soit simple et utilisable par n'importe qui
+-Adaptation de la structure du mail lier à la reception des données (Potentiel traitement par scrapping), isolation des données en REGEX, après le parsing du fichier XLS reçu par mail
+-Avoir un nouvelle objectif par semaine et par personne et faire un rapport  
+Par rapport au techno actuelle on est en PHP, python et mariadb

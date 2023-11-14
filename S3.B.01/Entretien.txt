@@ -1,0 +1,53 @@
+Reproduire le site sur un serveur bac a sable. Etulab 
+On va être des dev
+Proton Mail -> inproton_GMP@proton.me
+mdp -> inproton!
+Si c'est pas pratique changer la boîte mail -> Peut être GMAIL
+Mettre en forme les données 
+Colonne details On va avoir (nom de la pers, Porte 005, et Entrée et sortie)  et heure local  
+On ne peut pas rester plus de 6h 
+Ne pas créer une autre base de donnée 
+Hébergeur -> AMU
+Bug sur les accès -> uniquement fait sur le prénom ou le nom urgent de faire sur les deux 
+API pour se conecter depuis AMU 
+Pourvoir changer l'admin 
+Bouton pour aller sur la page administration 
+Temps gloabal passer dans la salle 
+Sur le semestre 
+Moyenne de groupe 
+Lors de la première connexion pop up pour choisir sa formation il faut que admin puisse le modifier 
+Stock suffisant pour l'instant 
+Trier / Filter par foramtion/ nb d'heure etc
+Bouton envoyer la liste des gens qui veulent faire des formations
+Tout faire en python 
+Vérifier que ce soit supporter chez l'hébergeur 
+
+Sur Notion 
+
+Fixer une tâche précise et différente à chacun -> écrire sur notion -> chaque semaine faire un contrendu 
+Objectif donnable et réalisable
+
+
+
+Quelle est le projet ?
+
+Ses fonctionnalités ?
+
+Quelle manière ?
+
+Agenda mail modifiable, API -> Porvenance
+
+Comment le récupérer ? -> GitLab
+
+Quelle outil pour communiquer ? -> Proposer redmind, gitlab, click up, notion
+
+Pouvons nous modifier à notre guise le projet existant ?
+
+Voulez vous qu'on sécurise le site ?
+
+Le plus important pour vous ?
+
+Préférence de technologie ? -> Python ?
+
+Proposer une refonte
+
