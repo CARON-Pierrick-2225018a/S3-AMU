@@ -1,0 +1,54 @@
+Suite du CDC à remplir sur le notion après :
+Transition de PHP à Django
+ 	Évaluation de la compatibilité de l'hébergement AMU avec Django.
+ 	Analyse des avantages et inconvénients de la transition.
+ 	Plan de migration, y compris la conversion de la base de données.
+Première Connexion
+ 	Page de sélection de formation lors de la première connexion.
+ 	Confirmation pour éviter les erreurs.
+ 	Bouton pour modifications ultérieures.
+ 	Possibilité de modification par l'administrateur en cas d'erreur.
+Tri des étudiants 
+	Possibilité de trier les étudiants par formation 
+	Possibilité de trier les étudiants par nombre d'heures
+Gestion des Entrées/Sorties de la Salle
+ 	Intégration des entrées/sorties de la salle dans la base de données.
+ 	Traitement d'un fichier XLSX reçu dans une boîte mail.
+ 	Structure des mails adaptée pour l'analyse automatisée.
+ 	Utilisation de REGEX pour extraire les données pertinentes.
+ 	Utilisation du champ "UTL" pour la comptabilisation des heures.
+ 	Comptabilisation du temps entre l'entrée et la sortie.
+ 	Exclusion des durées dépassant six heures.
+Expérience Utilisateur
+ 	Priorité à la simplicité de l'expérience utilisateur.
+ 	Interface utilisateur intuitive et conviviale.
+ 	Guides d'utilisation clairs et accessibles.
+
+Gestion des demandes 
+	-Système de notifications pour informer les utilisateurs de l'état de leurs demandes.
+ 	-Page de suivi des demandes pour les utilisateurs avec des filtres (en cours, traitées, etc.).
+ 	-Système de priorité pour les demandes urgentes.
+Gestion des autorisation 
+	Page pour les administrateurs permettant de gérer les autorisations des utilisateurs.
+ 	Attribution de rôles spécifiques aux membres et aux étudiants.
+Gestion des signalements
+	Page pour signaler des problèmes ou des incidents.
+ 	Tableau de bord pour les administrateurs pour gérer les signalements.
+Sécurité 
+ 	Authentification à deux facteurs pour les administrateurs.
+ 	Protocole de sécurité pour les échanges de données sensibles.
+ 	Journal des activités pour suivre les actions des utilisateurs.
+Mobilité
+ 	Version mobile du site ou application.
+ 	Fonctionnalités spécifiques pour une utilisation sur smartphone ou tablette.
+Documentation
+ 	Documentation complète du code source.
+Fonctionnalités Additionnelles
+ 	Page de statistiques pour visualiser l'utilisation de la salle.
+ 	Fonctionnalité de recherche avancée pour les utilisateurs et les formations.
+ 	Historique des modifications pour la gestion des stocks et des formations.
+ 	Notifications en temps réel pour les utilisateurs.
+ 	Module de discussion en ligne pour une communication directe.
+ 	Tableau de bord personnalisable pour chaque utilisateur.
+ 	Système de sauvegarde automatique des données sensibles.
+ 	Intégration de technologies émergentes pour l'amélioration continue.
