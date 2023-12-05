@@ -196,4 +196,44 @@ II - Les clauses particulières d'un contrat de travail
 			-Elle doit être justifier par l'intérêt de l'entreprise
 			-L'employeur doit tenir compte de la situation personnel et familiale du salarié
 			-Un délai de prévenance raisonnable doit être respecter avant la mutation du salarié
-			Les juges considère que quelque mois suffise 
+			Les juges considère que quelque mois suffise
+
+III - Les modifications du rapport d'emploi
+	A - Des modifications affectant le travail du salarié
+	L'employeur peut-être amener à  modifier la situation professionnel de son salarié selon la nature du changement engendré la qualification juridique n'est pas la même.
+	B- La modification juridique de l'employeur : le transfert d'entreprise
+	La situation de l'employeur n'est pas figé l'entreprise peut être amener à se restructurer après un fusion acquisition une session d'action ... Le rachat d'une entreprise par une autre donne lieu à un transfert de propriété entre les mains d'un nouvelle acquéreur. L'article L 1224-1 pose le principe du maintien des contrats de travail en cours. Le nouvelle employeur doit reprendre les salariés de son prédécesseur respecter le contenu du contrat et verser les salaires impayer s'il y a lieu. Dans cette situation de transfert d'entreprise un dispositif de dérogation autorise des licenciements économiques préalable pour les entreprises en difficultés. Qu'elle veuille sauvegarder leur compétitivité de l'entreprise ou des mutation technologiques. Cette dérogation est applicable uniquement une entreprise d'au moins 50 salariés. Les transfert de contret ne concerne alors que ce qui n'ont pas était supprimé à la suite des licenciements.
+
+Séance 4 :
+Le droit du travail et les libertés fondamentales du salarié
+Le droit du travail ne peut négliger la dimension personnel du salariés tant dans l'exécution de son contrat de travail que lors de la rupture de ce contrat
+I - La protection du salarie lors de l’exécution du travail
+	A - Les domaines de la protection du salariés
+		1. L'interdiction de la discrimination
+		Si il est légitimes que le chef d'entreprise opère une sélection entre les salariés lors de l'embauche et qu'il individualise éventuellement les salaires et les promotions c'est différences de traitements ne peuvent reposer que sur des critères professionnel et objectifs. La loi interdit toute discrimination, ce termes désigne des critères inadmissible de différentiation dans la gestion des hommes au travail. Ces critères illégaux nombreux sont listés par le code du travail.
+		2. Le respect de la vie privée et des libertés fondamentales
+			- Les données personnels du salarié
+			- Le secret des correspondances
+			- Le libre choix du domicile
+		3. La sécurité au travail
+	B - La protection des intérêts du salarié grâce à la formation professionnelle
+		1. Les obligations de l'employeur en matière de formation des salariés
+		2. Les modalités de la formation professionnel
+
+II - La rupture du contrat de travail et les conséquences
+	A - Rupture à l'initiative du salarié : la démission
+		1. Caractère
+		2. Conséquences
+	B - Rupture à l'initiative de l'employeur : le licenciement
+	L'employeur à le droit de rompre le CDI, il peut ajuster les effectifs à ses besoins pour des problèmes soit de qualité de prestation de travail, soit de quantité de travail nécessaire à la production mais la possibilité de licencier et subordonné au respect de diverse obligation imposer au chef d'entreprise.
+		1. Obligation de justifier et licenciement
+		Il y a plusieurs motifs :
+			- La faute du salarié : Faute légère ne constitue pas une cause sérieuse de licenciement, faute grave elle rend impossible le maintien du contrat de travail (ex : le vole c mal), faute lourde si une exceptionnel gravité et si elle révèle une intention de nuire à l'entreprise.
+			-Le fait non-fautif du salarié, le licenciement personnelle n'est pas toujours la sanction d'une faute commise par le salarié. Un fait personnel non-fautif peuvent justifier la rupture du contrat comme (l’incompatibilité de caractère avec les autres, voir la maladie prolongé si le remplacement définitif du remplacer s'impose, inaptitude physique)
+			-D'après la définition légal ce type de licenciement resulte d'une suppresion ou d'une transformation d'emploi ou d'une modification refuser par le salarié d'un élément essentielle du contrat consécutive notamment à des difficulté économique à des mutations technologique à un réorganisation de l'entreprise pour la sauvegarde de sa compétitivité ou alors à la cessation d'activiter de l'entreprise.
+			-La sanction du licenciement sans réel symbiose : dans ce cas le licenciement est sanctionne la salarié peut saisir le conseil de prudum pour demander reparation de son préjudice, la sanction prononcé depend des circonstances. Le juge peut proposer sans l'imposé une réintégration du salarié. si les parties refuse le salarié liàcencier à le droit à une indemnité dont le montant varie selon deux critères combiné : l'effectif de l'entreprise et l'ancienneté du salarié. Un barem légal précise le montant minimal et maximal calculer en mois de salaire pour chaque situation 
+		2. Obligation de respecter une procédure
+		3. conséquences
+	C - Rupture voulue par employeur et salarié : la rupture conventionnelle
+		1. Rupture conventionnelle homologuée individuelle
+		2. Rupture conventionnelle collective
